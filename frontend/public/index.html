@@ -31,9 +31,4 @@ int main() {
 
     sort(a.begin(), a.end());
 
-    vector<vector<int>> ans;
-
-    for (auto x : a) {
-        if (ans.empty() || ans.back()[1] < x[0])
-            ans.push_back(x);
-        
+    vector<vector<int>> ans
