@@ -43,16 +43,4 @@ int main() {
     for (auto x : ans)
         cout << "[" << x[0] << "," << x[1] << "] ";
 
-    return 0;
-}
-                (c == ')' && st.top() != '(') ||
-                (c == ']' && st.top() != '[') ||
-                (c == '}' && st.top() != '{'))
-                return cout << "Invalid", 0;
-            st.pop();
-        }
-    }
-
-    cout << (st.empty() ? "Valid" : "Invalid");
-    return 0;
-}
+    return 0
