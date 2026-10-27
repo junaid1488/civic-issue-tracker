@@ -4,7 +4,7 @@
 **🔗 https://civic-issue-tracker-three.vercel.app/**
 
 https://github.com/user-attachments/assets/820390b4-1d33-4c9d-ae06-6430d3a373b5
-
+reader 
 
 
 > **An AI-powered civic issue reporting platform that enables citizens to report, track, and monitor public infrastructure problems through an interactive and modern web application.**
