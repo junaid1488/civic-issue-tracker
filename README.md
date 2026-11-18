@@ -22,7 +22,6 @@ https://github.com/user-attachments/assets/820390b4-1d33-4c9d-ae06-6430d3a373b5
 - 📍 Interactive Map-based Issue Tracking
 - 🔐 Secure JWT Authentication
 - 📸 Image Upload & Preview
-- 📊 Admin Dashboard
 - 📱 Fully Responsive Design
 - 🔔 Real-time Toast Notifications
 - 🛡️ Secure Role-based Access
