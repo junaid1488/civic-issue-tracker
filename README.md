@@ -18,7 +18,11 @@ https://github.com/user-attachments/assets/820390b4-1d33-4c9d-ae06-6430d3a373b5
 
 ## ✨ Key Features
 
-- 🤖 
+- 🤖  AI-assisted Issue Classification
+- 📍 Interactive Map-based Issue Tracking
+- 🔐 Secure JWT Authentication
+- 📸 Image Upload & Preview
+- 📊 Admin Dashboard
 - 📸 Image Upload & Preview
 - 📱 Fully Responsive Design
 - 🔔 Real-time Toast Notifications
